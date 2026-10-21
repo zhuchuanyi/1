@@ -27,3 +27,15 @@
 官网摘录通过保留HTTPS验证的静态归档进行浏览器采集，仅裁取标题与代码区域，未改写官方信息。没有使用未经核实的费率、规模或收益宣传数据。
 
 已检查新版10个镜头、末5秒风险提示、1085帧视频时长和双版本画面一致性。配乐和riser为程序原创合成，电影系音效来自video-shotcraft素材库内登记来源的Mixkit素材。视觉与动作按[video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)的Ink Press模板语法适配。
+
+
+## 《方向》30 秒程序动画样片
+
+深灰背景、暖白光束，四镜结构。包含字幕、环境音与轻音效，以及末 5 秒静态风险提示。目前未加入人声旁白。
+
+- [下载 1080p 视频](videos/direction-1080p.mp4?raw=true)
+- [下载 4K 视频（由 720p 程序画面上采样）](videos/direction-4k.mp4?raw=true)
+- [制作说明](direction/制作说明.txt)
+- [旁白时间表](direction/旁白时间表.txt)
+
+程序与字幕文件保存在 `direction/`，原有主动 ETF 视频保留。
