@@ -1,3 +1,15 @@
+# 主动ETF · 玻璃质感版 V4
+
+约1分54秒，1920×1080，30fps。通透微磨砂玻璃、暖白背景、少量深红。沿用V3的文件夹展开、分支细线和53处语音同步3%轻微放大，念完复原。
+
+- [下载V4玻璃版视频](videos/active-etf-glass-voice-sync-v4.mp4?raw=true)
+- [下载V4可编辑工程](active-etf-glass/editable-project.zip?raw=true)
+- [制作说明](active-etf-glass/README.md)
+
+![V4玻璃版封面](active-etf-glass/cover.jpg)
+
+---
+
 # 主动ETF · 语音同步动效版 V3
 
 约1分54秒，1920×1080，30fps。暖白银色极简风；图中当前讲解内容轻微放大3%，念完恢复，字幕和全景保持稳定。接入文件夹展开与分支细线动效。
