@@ -1,0 +1,251 @@
+{
+  "scale": 1.03,
+  "timing": "Phrase windows from narration; keyword boundaries interpolated by character weight.",
+  "cues": [
+    {
+      "selector": "#intro-choice-group",
+      "start": 4.837242,
+      "end": 7.432693,
+      "scale": 1.03,
+      "label": "多一种选择"
+    },
+    {
+      "selector": "#s3 .headline",
+      "start": 40.39158633333333,
+      "end": 41.49126833333333,
+      "scale": 1.03,
+      "label": "透明"
+    },
+    {
+      "selector": "#s3 .document",
+      "start": 41.58997633333333,
+      "end": 44.257288333333335,
+      "scale": 1.03,
+      "label": "每日披露"
+    },
+    {
+      "selector": "#s3 .document",
+      "start": 44.35599633333333,
+      "end": 45.75984533333333,
+      "scale": 1.03,
+      "label": "申赎清单"
+    },
+    {
+      "selector": "#voice-s3-1",
+      "start": 45.85855333333333,
+      "end": 48.104711333333334,
+      "scale": 1.03,
+      "label": "观察组合和风格"
+    },
+    {
+      "selector": "#voice-s3-3",
+      "start": 48.20341933333333,
+      "end": 50.77714133333333,
+      "scale": 1.03,
+      "label": "不能预测交易"
+    },
+    {
+      "selector": "#voice-s3-3",
+      "start": 50.875849333333335,
+      "end": 52.20950633333333,
+      "scale": 1.03,
+      "label": "不代表稳赚"
+    },
+    {
+      "selector": "#s4 .headline",
+      "start": 53.29523033333333,
+      "end": 54.53514933333333,
+      "scale": 1.03,
+      "label": "成本"
+    },
+    {
+      "selector": "#s4 .cost0",
+      "start": 55.87038333333333,
+      "end": 56.47357233333333,
+      "scale": 1.03,
+      "label": "管理费"
+    },
+    {
+      "selector": "#s4 .cost1",
+      "start": 56.503731333333334,
+      "end": 57.106920333333335,
+      "scale": 1.03,
+      "label": "托管费"
+    },
+    {
+      "selector": "#s4 .cost2",
+      "start": 57.81342333333333,
+      "end": 58.58361933333333,
+      "scale": 1.03,
+      "label": "交易佣金"
+    },
+    {
+      "selector": "#s4 .cost3",
+      "start": 58.77616833333333,
+      "end": 59.546365333333334,
+      "scale": 1.03,
+      "label": "买卖价差"
+    },
+    {
+      "selector": "#s4 .headline",
+      "start": 59.673943333333334,
+      "end": 62.223967333333334,
+      "scale": 1.03,
+      "label": "综合成本"
+    },
+    {
+      "selector": "#s4 .headline",
+      "start": 62.32266333333333,
+      "end": 63.84331933333333,
+      "scale": 1.03,
+      "label": "总账"
+    },
+    {
+      "selector": "#s8 .final-object",
+      "start": 185.99560833333334,
+      "end": 187.96062633333335,
+      "scale": 1.03,
+      "label": "主动ETF"
+    },
+    {
+      "selector": "#s8 .final-object",
+      "start": 188.05931633333336,
+      "end": 190.49219533333334,
+      "scale": 1.03,
+      "label": "透明灵活"
+    },
+    {
+      "selector": "#voice-s8-1",
+      "start": 190.59088533333335,
+      "end": 192.69626133333335,
+      "scale": 1.03,
+      "label": "多一种选择"
+    },
+    {
+      "selector": "#voice-s8-2",
+      "start": 192.79495133333333,
+      "end": 194.64300433333335,
+      "scale": 1.03,
+      "label": "看策略算成本"
+    },
+    {
+      "selector": "#s8 .final-object",
+      "start": 194.74169333333333,
+      "end": 196.35581533333334,
+      "scale": 1.03,
+      "label": "决定参与"
+    },
+    {
+      "selector": "#holdings-distribution",
+      "start": 17.86,
+      "end": 18.785764,
+      "scale": 1.03,
+      "label": "ETF持仓分布"
+    },
+    {
+      "selector": "#etf-caption",
+      "start": 18.884475,
+      "end": 21.083894,
+      "scale": 1.03,
+      "label": "普通指数ETF跟踪指数"
+    },
+    {
+      "selector": "#summary-active-group",
+      "start": 21.182604,
+      "end": 23.779791,
+      "scale": 1.03,
+      "label": "基金经理选择策略"
+    },
+    {
+      "selector": "#summary-outcome",
+      "start": 23.878501,
+      "end": 25.305784,
+      "scale": 1.03,
+      "label": "争取跑赢基准"
+    },
+    {
+      "selector": "#nav-2-0",
+      "start": 28.652541666666668,
+      "end": 29.292541666666665,
+      "scale": 1.03,
+      "label": "交易"
+    },
+    {
+      "selector": "#nav-2-1",
+      "start": 29.362541666666665,
+      "end": 29.981208333333335,
+      "scale": 1.03,
+      "label": "透明"
+    },
+    {
+      "selector": "#nav-2-2",
+      "start": 30.051208333333335,
+      "end": 30.627208333333332,
+      "scale": 1.03,
+      "label": "成本"
+    },
+    {
+      "selector": "#issue-stage",
+      "start": 32.527208333333334,
+      "end": 34.95920833333333,
+      "scale": 1.03,
+      "label": "发行认购和上市交易，是两个阶段。"
+    },
+    {
+      "selector": "#listing-stage",
+      "start": 35.62920833333333,
+      "end": 37.335874999999994,
+      "scale": 1.03,
+      "label": "上市后，可以在交易时段，"
+    },
+    {
+      "selector": "#listing-stage .market-deal",
+      "start": 37.405875,
+      "end": 38.792541666666665,
+      "scale": 1.03,
+      "label": "按市场价格买卖。"
+    },
+    {
+      "selector": "#allocation-0",
+      "start": 74.03066666666668,
+      "end": 75.03333333333333,
+      "scale": 1.03,
+      "label": "均衡"
+    },
+    {
+      "selector": "#allocation-1",
+      "start": 75.48333333333333,
+      "end": 76.46466666666667,
+      "scale": 1.03,
+      "label": "价值"
+    },
+    {
+      "selector": "#allocation-2",
+      "start": 76.91466666666668,
+      "end": 77.896,
+      "scale": 1.03,
+      "label": "红利"
+    },
+    {
+      "selector": "#tip-0",
+      "start": 141.96733333333336,
+      "end": 151.586,
+      "scale": 1.03,
+      "label": "主动ETF的“主动”，买的是基金经理的判断力"
+    },
+    {
+      "selector": "#tip-1",
+      "start": 154.62600000000003,
+      "end": 164.11666666666667,
+      "scale": 1.03,
+      "label": "场内实时交易给你的是效率，用好它需要一点纪律"
+    },
+    {
+      "selector": "#tip-2",
+      "start": 167.1566666666667,
+      "end": 181.80733333333336,
+      "scale": 1.03,
+      "label": "资金体量不同，用法可以不同"
+    }
+  ]
+}

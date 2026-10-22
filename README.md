@@ -1,3 +1,19 @@
+# 主动ETF · 用好工具 V10
+
+约3分22秒，1920×1080，30fps。地球仅保留地点焦点与闪烁，删除北京/纽约文字。原第08、09镜替换为三页：透明、便宜、灵活三件工具入箱合盖；工具箱收束成灯泡，关键词处灯芯亮起；三条使用提示随完整口播依次出现，当前项提亮并微放大，讲完复原转灰。
+
+- [下载V10新版视频](videos/active-etf-tools-v10.mp4?raw=true)
+- [下载V10可编辑工程](active-etf-tools/editable-project.zip?raw=true)
+- [完整分镜与口播](active-etf-tools/production-plan.md)
+- [字幕](active-etf-tools/subtitles.srt)
+- [沿用数据来源](active-etf-tools/sources.md)
+
+![V10用好工具](active-etf-tools/cover.jpg)
+
+三段提示完整保留，段落间留阅读停顿，原收束和片尾继续衔接。旧版保留。
+
+---
+
 # 主动ETF · 全球视野 V9
 
 约2分52秒，1920×1080，30fps。安全阀左侧取消100只及上限刻度，保留30只下限。分散约束后新增全球视野：透明地球北京转纽约、规模数字增至2.5万亿美元、美国新发主动产品八成多饼图、转回北京、主动管理拼块归位。
