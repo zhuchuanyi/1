@@ -1,3 +1,13 @@
+## 可复用动效库
+
+[组件目录与用法](motion-library/README.md) · [本片建议应用方案](motion-library/CURRENT_VIDEO_PLAN.md)
+
+收录Shredder、FlipCard、BranchedMenu、FolderFloat和StarBorder，包含原始React源码、参数、CSS及HyperFrames时间轴适配。动效库已入库，本次成片尚未因新增组件而改动。
+
+![动效库适配展示](motion-library/preview.jpg)
+
+---
+
 # 主动ETF，多一种选择。 · 暖白银色极简版
 
 约1分54秒，1920×1080横版，30fps。暖白影棚、银色金属、少量深红、纤细字体与横向文字遮罩。含中文男声、同步字幕和稀疏氛围音乐，采用直接切换。

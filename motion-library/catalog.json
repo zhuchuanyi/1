@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "components": [
+    {
+      "id": "Shredder",
+      "description": "碎纸销毁",
+      "react": "react/Shredder/Shredder.jsx",
+      "css": "react/Shredder/Shredder.css",
+      "dependencies": [],
+      "source": "user-uploaded React Bits export",
+      "sha256": "93be85a5ad536ae76a5a8c19393d0524625ab06c4c84aa744c359f6ee3e7c3a4",
+      "originalHeaderName": "Shredder",
+      "currentFilmStatus": "reserve",
+      "hyperframesFunction": "shredder"
+    },
+    {
+      "id": "FlipCard",
+      "description": "双面翻卡",
+      "react": "react/FlipCard/FlipCard.jsx",
+      "css": "react/FlipCard/FlipCard.css",
+      "dependencies": [
+        "motion"
+      ],
+      "source": "user-uploaded React Bits export",
+      "sha256": "bd77dfa2df97b84f40c7369498b7368458b0051497ea6d2e12cf55503f1fe2da",
+      "originalHeaderName": "undefined",
+      "currentFilmStatus": "candidate",
+      "hyperframesFunction": "flipCard"
+    },
+    {
+      "id": "BranchedMenu",
+      "description": "树状分支展开",
+      "react": "react/BranchedMenu/BranchedMenu.jsx",
+      "css": "react/BranchedMenu/BranchedMenu.css",
+      "dependencies": [
+        "@hugeicons/react",
+        "@hugeicons/core-free-icons"
+      ],
+      "source": "user-uploaded React Bits export",
+      "sha256": "98595965df06d48512daae27dbf87323653e6c451b1039ac529e783f543fbcd1",
+      "originalHeaderName": "undefined",
+      "currentFilmStatus": "candidate",
+      "hyperframesFunction": "branchedMenu"
+    },
+    {
+      "id": "FolderFloat",
+      "description": "文件夹与纸张展开",
+      "react": "react/FolderFloat/FolderFloat.jsx",
+      "css": "react/FolderFloat/FolderFloat.css",
+      "dependencies": [
+        "matter-js"
+      ],
+      "source": "user-uploaded React Bits export",
+      "sha256": "5959b448c95162613f4cee519d66d34e920638680ba44ac229928c9768eda499",
+      "originalHeaderName": "undefined",
+      "currentFilmStatus": "recommended",
+      "hyperframesFunction": "folderFloat"
+    },
+    {
+      "id": "StarBorder",
+      "description": "边框轨迹",
+      "react": "react/StarBorder/StarBorder.jsx",
+      "css": "react/StarBorder/StarBorder.css",
+      "dependencies": [],
+      "source": "user-uploaded React Bits export",
+      "sha256": "f9387c641470855fc049ad81017f992a490887ab0cb673762effdabdf41a5c74",
+      "originalHeaderName": "StarBorder",
+      "currentFilmStatus": "reserve",
+      "hyperframesFunction": "starBorder"
+    }
+  ],
+  "license": "Original uploads do not include a license file; preserve upstream attribution.",
+  "hyperframesRuntime": "GSAP 3.14.2; no React runtime required"
+}
