@@ -1,3 +1,18 @@
+# 主动ETF · 点击展开与选股演示 V6
+
+约1分57秒，1920×1080，30fps。开场银白光线带亮点与短尾绕文字一圈；第二镜依次点击主动管理和ETF，展开经理选股、股票走势、持仓分布和数字界面，最后返回双按钮总结。
+
+- [下载V6新版视频](videos/active-etf-interactive-v6.mp4?raw=true)
+- [下载V6可编辑工程](active-etf-interactive/editable-project.zip?raw=true)
+- [执行分镜](active-etf-interactive/production-plan.md)
+- [制作说明](active-etf-interactive/README.md)
+
+![V6选股演示封面](active-etf-interactive/cover.jpg)
+
+所有新标的、报价、权重与走势均为机制示意。为演示插入3秒停顿，原始配音未重录或加速。
+
+---
+
 # 主动ETF · 石墨黑空间 V5
 
 约1分54秒，1920×1080，30fps。有层次的石墨黑背景、烟灰透明玻璃、银灰薄边与极小深红重音。开场删除列阵，两句居中先后出现：主动ETF → 多一种选择；单圈细线动效仅用于第二句，无泛光和粒子。
