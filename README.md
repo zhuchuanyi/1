@@ -1,3 +1,18 @@
+# 主动ETF · 分散约束四页 V8
+
+约2分17秒，1920×1080，30fps。用户已允许延长。分散约束改为四页：问号展开持仓疑问；策略环形图随旁白高亮；稳字散开为粒子并聚成进字；股票数量降至30只、前十大权重升至60%，分别停止并红色闪烁预警。
+
+- [下载V8新版视频](videos/active-etf-constraints-v8.mp4?raw=true)
+- [下载V8可编辑工程](active-etf-constraints/editable-project.zip?raw=true)
+- [完整分镜与口播](active-etf-constraints/production-plan.md)
+- [字幕](active-etf-constraints/subtitles.srt)
+
+![V8安全阀画面](active-etf-constraints/cover.jpg)
+
+图中均衡9只、价值4只、红利3只，合计16只，其他2只灰色单列，分类待补充。左侧数量柱使用0—100只的示意刻度，不是百分比。
+
+---
+
 # 主动ETF · 三项区别导航 V7
 
 约1分59秒，1920×1080，30fps。03分镜新增“交易、透明、成本”逐项总览；点击交易展开同一时间轴的发行认购与上市交易，重点突出交易时段内按市场价格买卖；点击透明进入04，点击成本进入05。保留石墨黑空间、烟灰玻璃和局部语音3%强调。
