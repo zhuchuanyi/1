@@ -1,8 +1,21 @@
+# 主动ETF · 语音同步动效版 V3
+
+约1分54秒，1920×1080，30fps。暖白银色极简风；图中当前讲解内容轻微放大3%，念完恢复，字幕和全景保持稳定。接入文件夹展开与分支细线动效。
+
+- [下载V3新版视频](videos/active-etf-minimal-voice-sync-v3.mp4?raw=true)
+- [下载V3可编辑工程](active-etf-voice-sync/editable-project.zip?raw=true)
+- [语音强调时间表](active-etf-voice-sync/voice-emphasis.json)
+- [制作说明](active-etf-voice-sync/README.md)
+
+![V3视频封面](active-etf-voice-sync/cover.jpg)
+
+---
+
 ## 可复用动效库
 
 [组件目录与用法](motion-library/README.md) · [本片建议应用方案](motion-library/CURRENT_VIDEO_PLAN.md)
 
-收录Shredder、FlipCard、BranchedMenu、FolderFloat和StarBorder，包含原始React源码、参数、CSS及HyperFrames时间轴适配。动效库已入库，本次成片尚未因新增组件而改动。
+收录Shredder、FlipCard、BranchedMenu、FolderFloat和StarBorder，包含原始React源码、参数、CSS及HyperFrames时间轴适配。动效库已入库；V3已应用文件夹展开、分支细线和语音同步强调。
 
 ![动效库适配展示](motion-library/preview.jpg)
 
