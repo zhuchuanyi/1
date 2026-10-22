@@ -1,3 +1,16 @@
+# 主动ETF · 三项区别导航 V7
+
+约1分59秒，1920×1080，30fps。03分镜新增“交易、透明、成本”逐项总览；点击交易展开同一时间轴的发行认购与上市交易，重点突出交易时段内按市场价格买卖；点击透明进入04，点击成本进入05。保留石墨黑空间、烟灰玻璃和局部语音3%强调。
+
+- [下载V7新版视频](videos/active-etf-navigation-v7.mp4?raw=true)
+- [下载V7可编辑工程](active-etf-navigation/editable-project.zip?raw=true)
+- [完整分镜与口播](active-etf-navigation/production-plan.md)
+- [字幕](active-etf-navigation/subtitles.srt)
+
+![V7交易时间轴](active-etf-navigation/cover.jpg)
+
+---
+
 # 主动ETF · 点击展开与选股演示 V6
 
 约1分57秒，1920×1080，30fps。开场银白光线带亮点与短尾绕文字一圈；第二镜依次点击主动管理和ETF，展开经理选股、股票走势、持仓分布和数字界面，最后返回双按钮总结。
