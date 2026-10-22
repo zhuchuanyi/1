@@ -1,3 +1,19 @@
+# 主动ETF · 全球视野 V9
+
+约2分52秒，1920×1080，30fps。安全阀左侧取消100只及上限刻度，保留30只下限。分散约束后新增全球视野：透明地球北京转纽约、规模数字增至2.5万亿美元、美国新发主动产品八成多饼图、转回北京、主动管理拼块归位。
+
+- [下载V9新版视频](videos/active-etf-global-v9.mp4?raw=true)
+- [下载V9可编辑工程](active-etf-global/editable-project.zip?raw=true)
+- [完整分镜与口播](active-etf-global/production-plan.md)
+- [数据与素材来源](active-etf-global/sources.md)
+- [字幕](active-etf-global/subtitles.srt)
+
+![V9透明地球](active-etf-global/cover.jpg)
+
+全球规模采用2026年6月底口径；美国新发产品占比采用2025年产品数量口径；国内“跨过5万亿元”明确标注2025年8月历史日期。地球国界来自公共领域Natural Earth，仅作位置示意。旧版保留。
+
+---
+
 # 主动ETF · 分散约束四页 V8
 
 约2分17秒，1920×1080，30fps。用户已允许延长。分散约束改为四页：问号展开持仓疑问；策略环形图随旁白高亮；稳字散开为粒子并聚成进字；股票数量降至30只、前十大权重升至60%，分别停止并红色闪烁预警。
