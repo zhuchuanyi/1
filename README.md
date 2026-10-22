@@ -1,3 +1,16 @@
+# 主动ETF · 石墨黑空间 V5
+
+约1分54秒，1920×1080，30fps。有层次的石墨黑背景、烟灰透明玻璃、银灰薄边与极小深红重音。开场删除列阵，两句居中先后出现：主动ETF → 多一种选择；单圈细线动效仅用于第二句，无泛光和粒子。
+
+- [下载V5深色版视频](videos/active-etf-dark-centered-v5.mp4?raw=true)
+- [下载V5可编辑工程](active-etf-dark/editable-project.zip?raw=true)
+- [本版制作方案](active-etf-dark/production-plan.md)
+- [制作说明](active-etf-dark/README.md)
+
+![V5深色版封面](active-etf-dark/cover.jpg)
+
+---
+
 # 主动ETF · 玻璃质感版 V4
 
 约1分54秒，1920×1080，30fps。通透微磨砂玻璃、暖白背景、少量深红。沿用V3的文件夹展开、分支细线和53处语音同步3%轻微放大，念完复原。
