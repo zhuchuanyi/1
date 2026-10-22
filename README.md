@@ -1,3 +1,20 @@
+# 18只主动ETF来了 · 两分钟解读
+
+1分53秒，1080×1920竖屏，30fps。米白、墨黑与琥珀色动态图解，包含中文AI旁白、字幕、原创背景音乐和风险提示。
+
+- [下载成片 MP4](videos/active-etf-explainer-20261023.mp4?raw=true)
+- [下载字幕 SRT](active-etf-explainer/subtitles.srt?raw=true)
+- [下载可编辑工程 ZIP](active-etf-explainer/editable-project.zip?raw=true)
+- [旁白文案](active-etf-explainer/旁白文案.txt)
+
+![视频封面](active-etf-explainer/cover.jpg)
+
+发行数量及2026年10月23日发行日期来自提供的文案，未经独立核实；以正式公告为准。视频已对完整持仓披露、费用及结算规则等绝对化表述作审慎调整。本片为知识介绍，不构成投资建议。主动管理不保证一定产生超额收益，投资有风险。
+
+成片已通过H.264/AAC完整解码检查、画面布局与对比度检查。可编辑工程包含动画HTML、镜头文案、时间表、旁白、音乐、字幕及生成脚本，不含本地语音模型和依赖目录。
+
+---
+
 # 主动 ETF · Ink Press 品类宣传片（新版）
 
 36.2秒，10个镜头，1920×1080，30fps，纸墨琥珀风格。
