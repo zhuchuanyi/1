@@ -1,3 +1,16 @@
+# 主动ETF，多一种选择。 · 暖白银色极简版
+
+约1分54秒，1920×1080横版，30fps。暖白影棚、银色金属、少量深红、纤细字体与横向文字遮罩。含中文男声、同步字幕和稀疏氛围音乐，采用直接切换。
+
+- [下载新版极简成片 MP4](videos/active-etf-minimal-16x9-v2.mp4?raw=true)
+- [下载可编辑 HyperFrames 工程](active-etf-minimal/editable-project.zip?raw=true)
+- [下载独立字幕 SRT](active-etf-minimal/subtitles.srt?raw=true)
+- [制作说明](active-etf-minimal/README.md)
+
+![极简版视频封面](active-etf-minimal/cover.jpg)
+
+---
+
 # 主动ETF · 金融科技风横版（本次第一版）
 
 1分54秒，1920×1080横版，30fps。含中文男声、同步字幕和电子氛围配乐。
