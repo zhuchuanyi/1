@@ -1,0 +1,15 @@
+{
+  "version": 16,
+  "change": "06-C再求进提前0.4秒出现",
+  "old_entry_seconds": 72.164083,
+  "new_entry_seconds": 71.764083,
+  "duration_seconds": 159.2,
+  "resolution": "1920x1080",
+  "fps": 30,
+  "full_decode": "passed",
+  "rendered_frame_review": "passed",
+  "audio_packet_sha256_unchanged": true,
+  "captions_unchanged": true,
+  "old_versions_preserved": true,
+  "sha256": "dcf58656b06256e313bc1092477fd72bffb476d13ef488af8ce52a0885f034d2"
+}
