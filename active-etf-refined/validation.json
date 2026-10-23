@@ -1,0 +1,19 @@
+{
+  "version": 13,
+  "resolution": "1920x1080",
+  "fps": 30,
+  "duration_seconds": 161.366667,
+  "audio": "AAC 48kHz stereo, narration only, no BGM",
+  "sha256": "77fafe724f6b0f9a3a59ad1b3a728365f6100e2d892080f43850a135bf0fb6cd",
+  "validation": {
+    "runtime_errors": 0,
+    "layout_issues": 0,
+    "motion_errors": 0,
+    "contrast_checks_passed": "50/50",
+    "full_decode": "passed",
+    "caption_intervals": 92,
+    "narration_sections": 9,
+    "opening_streak": "fixed and reviewed in rendered frame",
+    "old_versions_preserved": true
+  }
+}

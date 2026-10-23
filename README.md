@@ -1,3 +1,15 @@
+# 主动ETF V13 · 分镜与口播更新
+
+16:9横版，1920×1080，30fps，约2分41秒。较V12进一步提速约8%，保持音高，无BGM。更新01、02、04、05口播与费用对比，优化分散约束、国家版图微光、不规则拼图、精密工具与灯泡，三条提示改为人物选择、双价格折线与场内外适配，恢复总结及风险提示。旧版全部保留。
+
+- [下载 / 查看 V13 成片](videos/active-etf-refined-v13.mp4)
+- [完整分镜表和口播](active-etf-refined/production-plan.md)
+- [字幕](active-etf-refined/subtitles.srt)
+- [HyperFrames可编辑工程](active-etf-refined/editable-project.zip)
+- [数据与费用口径来源](active-etf-refined/sources.md)
+
+---
+
 # 主动ETF · 提速版 V12
 
 约3分06秒，1920×1080，30fps。配音提升至1.15倍并保持音高，字幕与动效同步；选片、等待下单、放入银片及结尾阅读停顿保留。本版按用户要求不加BGM，仅有配音。
