@@ -1,3 +1,19 @@
+# 主动ETF · 判断力、纪律与合拍 V11
+
+约3分29秒，1920×1080，30fps。工具箱去字，灯泡瘦长、灯芯更亮且柔光扩大，标签改为3 Tips。三条标题念完后分别展开：半侧影经理先排除再选择抽象薄片；价格差异收窄后再下单；暖白双轨与节拍器合拍后放入银片。片尾只保留三条提示和底部风险提示。
+
+- [下载V11新版视频](videos/active-etf-method-v11.mp4?raw=true)
+- [下载V11可编辑工程](active-etf-method/editable-project.zip?raw=true)
+- [完整分镜与口播](active-etf-method/production-plan.md)
+- [字幕](active-etf-method/subtitles.srt)
+- [沿用数据来源](active-etf-method/sources.md)
+
+![V11决策空间](active-etf-method/cover.jpg)
+
+三段完整口播保留，新增动作停顿。地球保持无地点文字。旧版本全部保留。
+
+---
+
 # 主动ETF · 用好工具 V10
 
 约3分22秒，1920×1080，30fps。地球仅保留地点焦点与闪烁，删除北京/纽约文字。原第08、09镜替换为三页：透明、便宜、灵活三件工具入箱合盖；工具箱收束成灯泡，关键词处灯芯亮起；三条使用提示随完整口播依次出现，当前项提亮并微放大，讲完复原转灰。
