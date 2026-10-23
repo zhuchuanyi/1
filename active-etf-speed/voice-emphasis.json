@@ -1,0 +1,195 @@
+{
+  "scale": 1.03,
+  "timing": "Phrase windows from narration; keyword boundaries interpolated by character weight.",
+  "cues": [
+    {
+      "selector": "#intro-choice-group",
+      "start": 4.206297391304348,
+      "end": 6.463211304347827,
+      "scale": 1.03,
+      "label": "多一种选择"
+    },
+    {
+      "selector": "#s3 .headline",
+      "start": 35.51686341485507,
+      "end": 36.47310863224637,
+      "scale": 1.03,
+      "label": "透明"
+    },
+    {
+      "selector": "#s3 .document",
+      "start": 36.55894167572464,
+      "end": 38.878343414855074,
+      "scale": 1.03,
+      "label": "每日披露"
+    },
+    {
+      "selector": "#s3 .document",
+      "start": 38.964176458333334,
+      "end": 40.1849147192029,
+      "scale": 1.03,
+      "label": "申赎清单"
+    },
+    {
+      "selector": "#voice-s3-1",
+      "start": 40.27074776268116,
+      "end": 42.22392863224638,
+      "scale": 1.03,
+      "label": "观察组合和风格"
+    },
+    {
+      "selector": "#voice-s3-3",
+      "start": 42.30976167572464,
+      "end": 44.54778080615942,
+      "scale": 1.03,
+      "label": "不能预测交易"
+    },
+    {
+      "selector": "#voice-s3-3",
+      "start": 44.63361384963768,
+      "end": 45.79331558876812,
+      "scale": 1.03,
+      "label": "不代表稳赚"
+    },
+    {
+      "selector": "#s4 .headline",
+      "start": 46.73742341485507,
+      "end": 47.81561384963768,
+      "scale": 1.03,
+      "label": "成本"
+    },
+    {
+      "selector": "#s4 .cost0",
+      "start": 48.97668689311594,
+      "end": 49.501199067028985,
+      "scale": 1.03,
+      "label": "管理费"
+    },
+    {
+      "selector": "#s4 .cost1",
+      "start": 49.52742428442029,
+      "end": 50.05193645833334,
+      "scale": 1.03,
+      "label": "托管费"
+    },
+    {
+      "selector": "#s4 .cost2",
+      "start": 50.666286893115945,
+      "end": 51.33602254528986,
+      "scale": 1.03,
+      "label": "交易佣金"
+    },
+    {
+      "selector": "#s4 .cost3",
+      "start": 51.50345645833333,
+      "end": 52.173192980072464,
+      "scale": 1.03,
+      "label": "买卖价差"
+    },
+    {
+      "selector": "#s4 .headline",
+      "start": 52.28413037137681,
+      "end": 54.50154254528986,
+      "scale": 1.03,
+      "label": "综合成本"
+    },
+    {
+      "selector": "#s4 .headline",
+      "start": 54.58736515398551,
+      "end": 55.909674719202904,
+      "scale": 1.03,
+      "label": "总账"
+    },
+    {
+      "selector": "#holdings-distribution",
+      "start": 15.92417964673913,
+      "end": 16.729191820652172,
+      "scale": 1.03,
+      "label": "ETF持仓分布"
+    },
+    {
+      "selector": "#etf-caption",
+      "start": 16.815027472826085,
+      "end": 18.727565733695652,
+      "scale": 1.03,
+      "label": "普通指数ETF跟踪指数"
+    },
+    {
+      "selector": "#summary-active-group",
+      "start": 18.81340051630435,
+      "end": 21.071823994565218,
+      "scale": 1.03,
+      "label": "基金经理选择策略"
+    },
+    {
+      "selector": "#summary-outcome",
+      "start": 21.157658777173914,
+      "end": 22.398774429347824,
+      "scale": 1.03,
+      "label": "争取跑赢基准"
+    },
+    {
+      "selector": "#nav-2-0",
+      "start": 25.308998487318842,
+      "end": 25.865520226449274,
+      "scale": 1.03,
+      "label": "交易"
+    },
+    {
+      "selector": "#nav-2-1",
+      "start": 25.926389791666665,
+      "end": 26.464360806159423,
+      "scale": 1.03,
+      "label": "透明"
+    },
+    {
+      "selector": "#nav-2-2",
+      "start": 26.525230371376814,
+      "end": 27.026099936594203,
+      "scale": 1.03,
+      "label": "成本"
+    },
+    {
+      "selector": "#issue-stage",
+      "start": 28.678273849637684,
+      "end": 30.79305645833333,
+      "scale": 1.03,
+      "label": "发行认购和上市交易，是两个阶段。"
+    },
+    {
+      "selector": "#listing-stage",
+      "start": 31.375665153985505,
+      "end": 32.859723124999995,
+      "scale": 1.03,
+      "label": "上市后，可以在交易时段，"
+    },
+    {
+      "selector": "#listing-stage .market-deal",
+      "start": 32.92059269021739,
+      "end": 34.12638979166667,
+      "scale": 1.03,
+      "label": "按市场价格买卖。"
+    },
+    {
+      "selector": "#allocation-0",
+      "start": 64.76823761775364,
+      "end": 65.64012167572464,
+      "scale": 1.03,
+      "label": "均衡"
+    },
+    {
+      "selector": "#allocation-1",
+      "start": 66.03142602355074,
+      "end": 66.88475935688408,
+      "scale": 1.03,
+      "label": "价值"
+    },
+    {
+      "selector": "#allocation-2",
+      "start": 67.27606370471017,
+      "end": 68.12939703804349,
+      "scale": 1.03,
+      "label": "红利"
+    }
+  ]
+}

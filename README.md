@@ -1,3 +1,18 @@
+# 主动ETF · 提速版 V12
+
+约3分06秒，1920×1080，30fps。配音提升至1.15倍并保持音高，字幕与动效同步；选片、等待下单、放入银片及结尾阅读停顿保留。本版按用户要求不加BGM，仅有配音。
+
+- [下载V12提速版视频](videos/active-etf-speed-v12.mp4?raw=true)
+- [下载V12可编辑工程](active-etf-speed/editable-project.zip?raw=true)
+- [完整分镜与口播](active-etf-speed/production-plan.md)
+- [字幕](active-etf-speed/subtitles.srt)
+
+![V12决策空间](active-etf-speed/cover.jpg)
+
+画面沿用V11，片尾仅三条提示和风险提示。旧版本保留。
+
+---
+
 # 主动ETF · 判断力、纪律与合拍 V11
 
 约3分29秒，1920×1080，30fps。工具箱去字，灯泡瘦长、灯芯更亮且柔光扩大，标签改为3 Tips。三条标题念完后分别展开：半侧影经理先排除再选择抽象薄片；价格差异收窄后再下单；暖白双轨与节拍器合拍后放入银片。片尾只保留三条提示和底部风险提示。
