@@ -1,0 +1,19 @@
+{
+  "version": 15,
+  "duration_seconds": 159.2,
+  "resolution": "1920x1080",
+  "fps": 30,
+  "audio": "AAC 48kHz stereo; narration only, no BGM",
+  "full_decode": "passed",
+  "runtime_errors": 0,
+  "layout_errors": 0,
+  "layout_warnings": 0,
+  "layout_info": "2 partial caption-reveal samples; rendered captions reviewed and readable",
+  "motion_errors": 0,
+  "contrast": "41/41 passed",
+  "captions": 90,
+  "central_06C_narration": "retained, corresponding bottom subtitles removed",
+  "08_to_09_silence_reduction_seconds": 0.6,
+  "sha256": "4029bf3c75412273e779191d94900598ff1fef3619c2348a11265e6da446fc77",
+  "old_versions_preserved": true
+}
