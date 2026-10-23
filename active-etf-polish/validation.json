@@ -1,0 +1,16 @@
+{
+  "version": 14,
+  "duration_seconds": 159.8,
+  "resolution": "1920x1080",
+  "fps": 30,
+  "audio": "AAC 48kHz stereo, narration only, no BGM",
+  "full_decode": "passed",
+  "runtime_errors": 0,
+  "layout_issues": 0,
+  "motion_errors": 0,
+  "contrast": "42/42 passed",
+  "captions": 92,
+  "narration_sections": 9,
+  "sha256": "37c8773dc9fc8b7a9a512b659ac8e67258a7a10d712f39c4ef2b297883de214d",
+  "old_versions_preserved": true
+}
